@@ -93,6 +93,9 @@ PUT	/users/{id}	Actualizar usuario
 
 DELETE	/users/{id}	Eliminar usuario
 
+# Base de datos
+
+En la carpeta raíz del proyecto, se ubica el archivo sql correspondiente a la base de datos utilizada. Se puede descargar desde el link: [de_greef_mariano.sql](https://github.com/marianodegreef/tpintegrador/blob/main/de_greef_mariano.sql)  
 
 # Uso
 
